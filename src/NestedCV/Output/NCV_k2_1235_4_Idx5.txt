@@ -1,0 +1,97 @@
+RandomSearch No.5:
+  Nch_init        = 24
+  Npool           = 4
+  batch_size      = 24
+  LR_initial      = 0.0058743195
+  LR_decay_factor = 0.28322256
+  LR_decay_step   = 4.0
+219.127754 seconds (157.32 M allocations: 7.586 GiB, 2.94% gc time)
+Training epoch No.1, loss_train = 0.00016984477
+Training epoch No.1, loss_valid = 0.0001544361
+130.685104 seconds (32.95 M allocations: 1.360 GiB, 2.33% gc time)
+Training epoch No.2, loss_train = 0.00013281975
+Training epoch No.2, loss_valid = 0.00016355299
+132.285112 seconds (32.94 M allocations: 1.358 GiB, 2.38% gc time)
+Training epoch No.3, loss_train = 9.981705e-5
+Training epoch No.3, loss_valid = 0.0001226266
+131.218878 seconds (32.95 M allocations: 1.360 GiB, 2.25% gc time)
+Training epoch No.4, loss_train = 0.00012401503
+Training epoch No.4, loss_valid = 0.0002485032
+133.062903 seconds (32.94 M allocations: 1.358 GiB, 2.33% gc time)
+Training epoch No.5, loss_train = 7.677718e-5
+Training epoch No.5, loss_valid = 9.512241e-5
+131.832677 seconds (32.95 M allocations: 1.360 GiB, 2.22% gc time)
+Training epoch No.6, loss_train = 7.409489e-5
+Training epoch No.6, loss_valid = 0.00016767964
+132.016329 seconds (32.94 M allocations: 1.358 GiB, 2.21% gc time)
+Training epoch No.7, loss_train = 8.410503e-5
+Training epoch No.7, loss_valid = 0.00024774144
+130.722472 seconds (32.95 M allocations: 1.360 GiB, 2.13% gc time)
+Training epoch No.8, loss_train = 8.910499e-5
+Training epoch No.8, loss_valid = 0.00061321846
+130.757716 seconds (32.95 M allocations: 1.360 GiB, 2.13% gc time)
+Training epoch No.9, loss_train = 4.7462097e-5
+Training epoch No.9, loss_valid = 0.00010572657
+132.344186 seconds (32.95 M allocations: 1.359 GiB, 2.02% gc time)
+Training epoch No.10, loss_train = 4.003304e-5
+Training epoch No.10, loss_valid = 7.7743134e-5
+130.730828 seconds (32.95 M allocations: 1.359 GiB, 2.03% gc time)
+Training epoch No.11, loss_train = 4.0429888e-5
+Training epoch No.11, loss_valid = 8.7798544e-5
+131.533385 seconds (32.95 M allocations: 1.359 GiB, 2.03% gc time)
+Training epoch No.12, loss_train = 4.064403e-5
+Training epoch No.12, loss_valid = 8.2043814e-5
+130.879933 seconds (32.95 M allocations: 1.359 GiB, 2.41% gc time)
+Training epoch No.13, loss_train = 4.6087152e-5
+Training epoch No.13, loss_valid = 9.713529e-5
+131.075551 seconds (32.96 M allocations: 1.363 GiB, 3.70% gc time)
+Training epoch No.14, loss_train = 3.662776e-5
+Training epoch No.14, loss_valid = 7.463035e-5
+130.989328 seconds (32.95 M allocations: 1.359 GiB, 2.02% gc time)
+Training epoch No.15, loss_train = 4.7617523e-5
+Training epoch No.15, loss_valid = 0.00010353803
+132.208631 seconds (32.95 M allocations: 1.359 GiB, 2.01% gc time)
+Training epoch No.16, loss_train = 3.436758e-5
+Training epoch No.16, loss_valid = 7.812147e-5
+131.426131 seconds (32.96 M allocations: 1.363 GiB, 3.74% gc time)
+Training epoch No.17, loss_train = 3.2752214e-5
+Training epoch No.17, loss_valid = 7.1681075e-5
+130.154629 seconds (32.95 M allocations: 1.359 GiB, 2.00% gc time)
+Training epoch No.18, loss_train = 4.3455122e-5
+Training epoch No.18, loss_valid = 7.202615e-5
+130.962566 seconds (32.95 M allocations: 1.359 GiB, 1.99% gc time)
+Training epoch No.19, loss_train = 2.7806227e-5
+Training epoch No.19, loss_valid = 6.383548e-5
+130.940376 seconds (32.96 M allocations: 1.363 GiB, 3.68% gc time)
+Training epoch No.20, loss_train = 5.0731396e-5
+Training epoch No.20, loss_valid = 0.00010381645
+130.179621 seconds (32.95 M allocations: 1.359 GiB, 2.13% gc time)
+Training epoch No.21, loss_train = 2.8849126e-5
+Training epoch No.21, loss_valid = 6.635515e-5
+131.146547 seconds (32.95 M allocations: 1.359 GiB, 1.97% gc time)
+Training epoch No.22, loss_train = 2.9092384e-5
+Training epoch No.22, loss_valid = 6.50792e-5
+130.185430 seconds (32.95 M allocations: 1.359 GiB, 2.00% gc time)
+Training epoch No.23, loss_train = 2.7797376e-5
+Training epoch No.23, loss_valid = 6.867989e-5
+131.005757 seconds (32.95 M allocations: 1.359 GiB, 1.95% gc time)
+Training epoch No.24, loss_train = 2.7065073e-5
+Training epoch No.24, loss_valid = 6.559166e-5
+130.585738 seconds (32.95 M allocations: 1.360 GiB, 1.97% gc time)
+Training epoch No.25, loss_train = 2.6055774e-5
+Training epoch No.25, loss_valid = 6.513908e-5
+132.340975 seconds (32.94 M allocations: 1.358 GiB, 2.28% gc time)
+Training epoch No.26, loss_train = 2.5571431e-5
+Training epoch No.26, loss_valid = 6.3631036e-5
+130.142109 seconds (32.95 M allocations: 1.360 GiB, 1.99% gc time)
+Training epoch No.27, loss_train = 2.5790774e-5
+Training epoch No.27, loss_valid = 6.419579e-5
+130.576234 seconds (32.95 M allocations: 1.359 GiB, 2.00% gc time)
+Training epoch No.28, loss_train = 2.5136502e-5
+Training epoch No.28, loss_valid = 6.350473e-5
+129.018055 seconds (32.95 M allocations: 1.359 GiB, 1.98% gc time)
+Training epoch No.29, loss_train = 2.4406025e-5
+Training epoch No.29, loss_valid = 6.3735235e-5
+130.617598 seconds (32.95 M allocations: 1.360 GiB, 2.25% gc time)
+Training epoch No.30, loss_train = 2.4672818e-5
+Training epoch No.30, loss_valid = 6.5348024e-5

@@ -1,0 +1,63 @@
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k1_123_4_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_123_4.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k1_124_3_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k1_124_3.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k1_134_2_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k1_134_2.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k1_234_1_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k1_234_1.txt
+
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k2_123_5_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k2_123_5.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k2_125_3_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k2_125_3.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k2_135_2_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k2_135_2.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k2_235_1_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k2_235_1.txt
+
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k3_145_2_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k3_145_2.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k3_124_5_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k3_124_5.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k3_245_1_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k3_245_1.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k3_125_4_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k3_125_4.txt
+
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k4_145_3_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k4_145_3.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k4_134_5_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k4_134_5.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k4_345_1_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k4_345_1.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k4_135_4_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k4_135_4.txt
+
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k5_345_2_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k5_345_2.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k5_234_5_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k5_234_5.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k5_245_3_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k5_245_3.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k5_235_4_Idx1to50.jl > FromMSI/NestedCV/Output/NCV_k5_235_4.txt
+
+
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k2_135_2_Idx45to50.jl > FromMSI/NestedCV/Output/NCV_k2_135_2_new.txt
+
+
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k1_1234_5_Idx13.jl > FromMSI/NestedCV/Output/NCV_k1_1234_5_Idx13.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k2_1235_4_Idx43.jl > FromMSI/NestedCV/Output/NCV_k2_1235_4_Idx43.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k3_1245_3_Idx5.jl  > FromMSI/NestedCV/Output/NCV_k3_1245_3_Idx5.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k4_1345_2_Idx8.jl  > FromMSI/NestedCV/Output/NCV_k4_1345_2_Idx8.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k5_2345_1_Idx13.jl > FromMSI/NestedCV/Output/NCV_k2_2345_1_Idx13.txt
+
+
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k1_1234_5_Idx5.jl > FromMSI/NestedCV/Output/NCV_k1_1234_5_Idx5.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k2_1235_4_Idx5.jl > FromMSI/NestedCV/Output/NCV_k2_1235_4_Idx5.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k4_1345_2_Idx5.jl > FromMSI/NestedCV/Output/NCV_k4_1345_2_Idx5.txt
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k5_2345_1_Idx5.jl > FromMSI/NestedCV/Output/NCV_k5_2345_1_Idx5.txt
+
+julia FromMSI/NestedCV/Run_ResNet_36Vol_T1W_L2_NestedCV_k3_1245_3_Idx5.jl > FromMSI/NestedCV/Output/NCV_k3_1245_3_Idx5_new.txt
+
+
+julia FromMSI/Test_NCV_k1_1234_5_EncoderDecoder.jl
+julia FromMSI/Test_NCV_k2_1235_4_EncoderDecoder.jl
+julia FromMSI/Test_NCV_k3_1245_3_EncoderDecoder.jl
+julia FromMSI/Test_NCV_k4_1345_2_EncoderDecoder.jl
+julia FromMSI/Test_NCV_k5_2345_1_EncoderDecoder.jl
+
+
+
+julia FromMSI/Test_36Vol_T1w_k1_1234_5_new.jl
+julia FromMSI/Test_36Vol_T1w_k2_1235_4_new.jl
+julia FromMSI/Test_36Vol_T1w_k3_1245_3_new.jl
+julia FromMSI/Test_36Vol_T1w_k4_1345_2_new.jl
+
+julia FromMSI/Test_36Vol_T1w_OrigResNet_HCP1.jl
+julia FromMSI/Test_36Vol_T1w_OrigResNet_HCP2.jl
+julia FromMSI/Test_36Vol_T1w_OrigResNet_HCP3.jl
+
+
+
