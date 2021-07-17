@@ -7,3 +7,7 @@
 
 This repo contains the Julia scripts for end-to-end image mapping from 1TX to pTX using deep learning.
 Specifically, a CNN is used as the neural network (e.g., Unet), with 1TX image as the input and pTX image as the output.
+
+You can run the program by running the julia scripts in the folder src/.
+
+All my ppts including ISMRM abstracts are documented in the folder reports/.
